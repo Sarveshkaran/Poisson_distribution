@@ -29,9 +29,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![VS-SS](https://user-images.githubusercontent.com/94828147/194226161-2d401b5d-b463-42b1-babc-14b3400c2ce0.png)
 
 # Program :
-Developed by : Mirudhula D
+Developed by : sarveshkaran vk
 
-Resgister no:212221230060
+Resgister no:212221230089
 
 # CODE:
 ~~~
